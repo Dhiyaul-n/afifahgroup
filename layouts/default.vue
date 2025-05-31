@@ -43,7 +43,7 @@
                         <img :src="logo" alt="Logo" class="w-12 h-12 object-contain" />
                         <span class="text-2xl tracking-wide text-black transition cursor-pointer select-none"
                             style="font-family: 'Aref Ruqaa Ink', serif; font-weight: 700;">
-                            Afifah Group
+                            Afifah Group AVA
                         </span>
                     </NuxtLink>
 
