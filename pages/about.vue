@@ -53,7 +53,7 @@
                 <h4 class="text-3xl font-bold mb-4">Ingin bergabung bersama kami?</h4>
                 <p class="mb-6 text-lg">Segera daftarkan diri Anda & keluarga untuk meraih pengalaman spiritual tak
                     terlupakan.</p>
-                <a href="/kontak"
+                <a href="/contact"
                     class="inline-block bg-gold text-primary font-bold px-8 py-3 rounded-full hover:bg-yellow-500 transition">
                     Hubungi Kami Sekarang
                 </a>
